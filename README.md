@@ -234,6 +234,12 @@ TotalPowerFactor = 0.72
 Energy Kwh not displayed in this example. 
 ```
 
-## For further information see the doc folder
+For further information see the doc folder and my_test_detail
+
+here is the website of the manufacturer of these good meters https://www.jsypowermeter.com/
+
+here is a video of my test https://youtube.com/shorts/Y0TbxYpjr7g
+
+
 
 
