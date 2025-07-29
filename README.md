@@ -205,8 +205,34 @@ PowerFactorC = 1.00
 TotalPowerFactor = 0.90
 Energy Kwh not displayed in this example. 
 ```
-
-
+inverted A clamp Meter to test bidirectional output is:
+```
+----------------------- JSY-MK-333 -------------------------------------
+VoltageA = 227.22
+VoltageB = 227.16
+VoltageC = 227.05
+CurrentA = 0.16
+CurrentB = 0.25
+CurrentC = 0.43
+ActivePowerA = -17.00
+ActivePowerB = 58.00
+ActivePowerC = 99.00
+TotalActivePower (W) = 140.00
+ReactivePowerA (var) = -33.00
+ReactivePowerB (var) = 0.00
+ReactivePowerC (var) = 1.00
+TotalReactivePower (var) = -35.00
+ApparentPowerA (VA) = 38.00
+ApparentPowerB (VA) = 58.00
+ApparentPowerC (VA) = 99.00
+TotalApparentPower (VA) = 195.00
+Frequency (Hz) = 49.94
+PowerFactorA = 0.46
+PowerFactorB = 1.00
+PowerFactorC = 1.00
+TotalPowerFactor = 0.72
+Energy Kwh not displayed in this example. 
+```
 
 ## For further information see the doc folder
 
